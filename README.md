@@ -7,6 +7,15 @@
 <p align="center" style="position: relative;">
   <span style="font-family: 'Comic Sans MS', cursive; font-size: 2em; color: #ff69b4;">
     🌸<strong>Karina Serrano</strong>🌸
+<!-- 🎯 PORTADA PERSONALIZADA - Karina Serrano -->
+
+<p align="center">
+  <img src="https://github.com/KarinaSerrM/KarinaSerrM/blob/main/portada-karina.png" alt="Banner de Karina Serrano" width="1000"/>
+</p>
+
+<p align="center" style="position: relative;">
+  <span style="font-family: 'Comic Sans MS', cursive; font-size: 2em; color: #ff69b4;">
+  🌸<strong>Karina Serrano</strong>🌸
   </span>
   <img src="https://github.com/KarinaSerrM/KarinaSerrM/blob/main/avatar-codificadora.png" alt="Chica codificadora acogedora" width="80" align="right" />
 </p>
