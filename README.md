@@ -1,8 +1,15 @@
-<!-- 🎯 PORTADA PERSONALIZADA - Karina Serrano -->
+<!-- 🌸 PORTADA CON ESTILO COQUETO Y PROFESIONAL -->
 
 <p align="center">
-  <img src="https://github.com/KarinaSerrM/KarinaSerrM/blob/main/portada-karina.png" alt="Karina Serrano Banner" width="1000"/>
+  <img src="images/portada-karina.png" alt="Karina Serrano Banner" width="1000"/>
 </p>
+
+<div align="center">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #f49ac2;">
+    💖 Karina Serrano 💖
+  </h1>
+  <img src="https://img.freepik.com/vector-premium/ilustracion-nina-que-trabaja-computadora-portatil_38890289.htm" alt="Cozy Coding Girl" width="180" align="right" />
+</div>
 
 <p align="center">
   <a href="https://github.com/KarinaSerrM">
@@ -18,50 +25,50 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-
-
 ## 👩‍💻 Sobre mí
 
-Soy **Karina Serrano**, una profesional con formación en Ingeniería Industrial y especialización en Ciencia de Datos, con fuerte enfoque en **logística, análisis estratégico y visualización de datos**. Mi pasión es conectar los datos con decisiones reales que generen impacto.
+✨ Soy **Karina Serrano**, una profesional apasionada por la conexión entre los datos y las decisiones estratégicas.
 
-### 🎯 Mis Áreas de Enfoque:
+Me defino como alguien que combina lógica, estructura y creatividad para mejorar procesos logísticos y operativos mediante la analítica. Trabajo con propósito, comunicación efectiva y mucha sensibilidad visual.
+
+---
+
+### 🎯 Áreas de Enfoque
+
 - Automatización de procesos mediante SQL y Python.
-- Desarrollo de dashboards interactivos con Power BI.
-- Análisis exploratorio y narrativas visuales orientadas al negocio.
-- Comunicación efectiva entre equipos técnicos y no técnicos.
+- Dashboards interactivos con Power BI para visualización clara y estratégica.
+- Análisis exploratorio de datos con narrativas que inspiran acción.
+- Conexión efectiva entre equipos técnicos y no técnicos.
 
-Mi estilo de trabajo se basa en la **eficiencia, claridad y propósito**. Documentar, compartir y optimizar cada proyecto es parte de mi metodología.
+📌 _Mi estilo: estructura + emoción + propósito._
 
 ---
 
 ## ⚙️ Habilidades Técnicas
 
-| Categoría                  | Tecnologías y Herramientas                                                                 |
-|---------------------------|---------------------------------------------------------------------------------------------|
-| **Lenguajes**             | Python · SQL                                                                               |
-| **Data Science Stack**    | Scikit-learn · Pandas · NumPy · Seaborn · Matplotlib                                      |
-| **Visualización**         | Power BI · Dashboards orientados a toma de decisiones                                      |
-| **Técnicas de ML**        | Regresión lineal · k-NN · Regresión logística · K-means · Análisis de sentimientos         |
-| **Bases de datos**        | PostgreSQL                                                                                 |
-| **Control de versiones**  | Git · GitHub                                                                               |
-| **Colaboración**          | Documentación clara · Comunicación efectiva · Pensamiento analítico                       |
+| Categoría                 | Herramientas y Tecnologías                                                                 |
+|--------------------------|---------------------------------------------------------------------------------------------|
+| **Lenguajes**            | Python · SQL                                                                               |
+| **Data Science Stack**   | Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn                                      |
+| **Visualización**        | Power BI · Dashboards para toma de decisiones                                              |
+| **Técnicas de ML**       | Regresión lineal · k-NN · Logística · K-means · Análisis de sentimientos                  |
+| **Bases de datos**       | PostgreSQL                                                                                 |
+| **Control de versiones** | Git · GitHub                                                                               |
 
 ---
 
 ## 🌱 ¿Qué me motiva?
 
-📊 Transformar datos en decisiones estratégicas.  
-🔗 Diseñar soluciones robustas en logística y control de procesos.  
-📚 Compartir conocimiento con enfoque humano.  
-🌐 Contribuir activamente a la comunidad de ciencia de datos.
+🌈 Transformar la complejidad de los datos en claridad.  
+📦 Diseñar soluciones que optimizan inventarios y logística.  
+🤝 Compartir conocimiento con perspectiva humana.  
+✨ Crear dashboards que cuentan historias reales.
 
 > “Los datos son poder, pero compartirlos con propósito es lo que transforma.”
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Mi Actividad en GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarinaSerrM&theme=dark&show_icons=true&count_private=true&hide_border=false&title_color=f49ac2&icon_color=00bfff&text_color=ecf0f1&bg_color=2c3e50" />
@@ -75,16 +82,11 @@ Mi estilo de trabajo se basa en la **eficiencia, claridad y propósito**. Docume
 
 ## 🤝 ¡Conectemos!
 
-📬 **Correo electrónico:** karina.ingind@email.com  
+📬 **Correo:** karina.ingind@email.com  
 🔗 **LinkedIn:** [Karina Serrano - Data Science](https://www.linkedin.com/in/karina-serrano-data-science)
 
 ---
 
-https://github.com/KarinaSerrM/KarinaSerrM/blob/main/portada-karina.png
-
-portada-karina.png
 
 
-
----
 
