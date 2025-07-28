@@ -82,7 +82,7 @@ _“Los datos son poder, pero compartirlos con propósito es lo que transforma.�
 
 Soy **Karina Serrano**, una profesional con formación en Ingeniería Industrial y especialización en Ciencia de Datos, con fuerte enfoque en **logística, análisis estratégico y visualización de datos**. Mi pasión es conectar los datos con decisiones reales que generen impacto.
 
-💡 Me especializo en:
+### 🎯 Mis Áreas de Enfoque:
 - Automatización de procesos mediante SQL y Python.
 - Desarrollo de dashboards interactivos con Power BI.
 - Análisis exploratorio y narrativas visuales orientadas al negocio.
@@ -110,7 +110,7 @@ Mi estilo de trabajo se basa en la **eficiencia, claridad y propósito**. Docume
 
 📊 Transformar datos en decisiones estratégicas.  
 🔗 Diseñar soluciones robustas en logística y control de procesos.  
-📚 Compartir conocimiento y mentoría con enfoque humano.  
+📚 Compartir conocimiento con enfoque humano.  
 🌐 Contribuir activamente a la comunidad de ciencia de datos.
 
 > “Los datos son poder, pero compartirlos con propósito es lo que transforma.”
@@ -136,12 +136,12 @@ Mi estilo de trabajo se basa en la **eficiencia, claridad y propósito**. Docume
 
 ---
 
-## 🖼️ Imagen de portada sugerida
+https://github.com/KarinaSerrM/KarinaSerrM/blob/main/portada-karina.png
 
-Si no deseas subir tu propia imagen, aquí tienes una opción visualmente armoniosa con tu estilo pastel y futurista:
+portada-karina.png
 
+ [esta en Unsplash](https://unsplash.com/photos/2EJCSULRwC8) 
+ [esta en Pexels](https://www.pexels.com/photo/woman-in-gray-shirt-sitting-by-the-computer-3861964/).)
 
-<img src="https://github-readme-stats.vercel.app/api?username=KarinaSerrM&theme=dark&show_icons=true&hide_border=false&count_private=true&title_color=f49ac2&icon_color=00bfff&text_color=ecf0f1&bg_color=2c3e50" alt="Estadísticas de GitHub de KarinaSerrM" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KarinaSerrM&theme=dark&hide_border=false&stroke=f49ac2&background=2c3e50&currstreak_color=00bfff&ring=00bfff&side_main=ecf0f1&side_border=ecf0f1&dates=ecf0f1" alt="Racha de Contribuciones de KarinaSerrM" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaSerrM&theme=dark&show_icons=true&hide_border=false&layout=compact&title_color=f49ac2&icon_color=00bfff&text_color=ecf0f1&bg_color=2c3e50" alt="Lenguajes Más Usados por KarinaSerrM" />
-</p>
+---
+
