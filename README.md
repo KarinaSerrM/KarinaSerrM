@@ -6,12 +6,15 @@
 
 # 💫 ¡Hola, soy Karina Serrano!
 
-Soy una profesional de datos con enfoque estratégico y sensibilidad comunicativa. Me apasiona transformar información en decisiones que generan impacto real. Creo en el poder de los datos para mejorar procesos, conectar personas y contar historias que inspiran.
+Ingeniera Industrial con formación en Ciencia de Datos.  
+Transformo información en decisiones estratégicas que optimizan la cadena de suministro, mejoran operaciones y fortalecen la trazabilidad. Uso herramientas como Python, SQL, Power BI y GitHub para convertir patrones en soluciones accionables.
+
+---
 
 ### 🔍 ¿Qué hago?
-- 🧠 Diseño soluciones con SQL y Power BI que optimizan operaciones.
-- 📈 Creo dashboards que no solo informan, sino que comunican.
-- ✍️ Escribo contenido técnico con voz humana para redes profesionales.
+- 🧠 Diseño soluciones con SQL y Power BI que generan valor logístico.
+- 📈 Creo dashboards que comunican con claridad y foco estratégico.
+- ✍️ Escribo contenido técnico con enfoque humano para redes profesionales.
 - 🤝 Mentoreo y comparto conocimiento en la comunidad de ciencia de datos.
 
 ---
@@ -25,15 +28,26 @@ Soy una profesional de datos con enfoque estratégico y sensibilidad comunicativ
 
 ---
 
-### 💖 Mi estilo
-Femenino, cercano y profesional. Me gusta conectar lo técnico con lo humano, y crear espacios donde el conocimiento se comparte con empatía y claridad.
+### 💼 Mi estilo profesional
+
+🎯 Soy una profesional con enfoque técnico-operativo y visión estratégica.  
+Aplico pensamiento analítico para transformar datos en decisiones concretas que generan valor en logística, gestión de inventarios y mejora continua. Me apasiona conectar la información con los resultados del negocio.
+
+Mi estilo se caracteriza por:
+- 🔍 Precisión en el análisis y trazabilidad en operaciones.
+- 🧩 Comunicación clara entre áreas técnicas y no técnicas.
+- 📈 Visualización efectiva con Power BI y narrativas orientadas a la toma de decisiones.
+- 🚀 Automatización y mejora de procesos con SQL, Python y herramientas colaborativas.
+
+Siempre busco que mi trabajo hable por sí solo: eficiente, documentado y alineado a objetivos.  
+Creo que la profesionalidad también se refleja en cómo compartimos conocimiento, colaboramos y seguimos aprendiendo.
 
 ---
 
 ### 📬 ¿Conectamos?
 Me encanta colaborar, aprender y compartir.  
 🔗 [LinkedIn](https://www.linkedin.com/in/karina-serrano-data-science)  
-📧 karina.ingind@email.com
+📧 karina.tucorreo@email.com
 
 ---
 
