@@ -4,8 +4,6 @@
   👩🏻‍💻 <span style="color:#f49ac2;">Karina Serrano</span> 🌸
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XyV1c8VvF5hC/giphy.gif" alt="Chica codificadora acogedora" width="120"/>
 </p>
 
 <p align="center">
@@ -23,10 +21,12 @@
 
 ---
 
-## 👩🏻‍💼 Sobre mí
 
-✨ Soy **Karina Serrano**, una profesional apasionada por la conexión entre los datos y las decisiones estratégicas.
+<h2> 👩🏻‍💼Hola soy Karina! </h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
+
+✨  Una profesional apasionada por la conexión entre los datos y las decisiones estratégicas.
 Me defino como alguien que combina lógica, estructura y creatividad para mejorar procesos logísticos y operativos mediante la analítica. Trabajo con propósito, comunicación efectiva y mucha sensibilidad visual.
 
 ---
