@@ -1,3 +1,9 @@
+<img src="https://img.shields.io/badge/Data%20Science-Powerful%20&%20Strategic-ff69b4?style=for-the-badge" alt="Data Science Badge" />
+<img src="https://img.shields.io/badge/SQL-Advanced-00bfff?style=for-the-badge&logo=sqlite" alt="SQL Badge" />
+<img src="https://img.shields.io/badge/Power%20BI-Expert-ffbf00?style=for-the-badge&logo=powerbi" alt="Power BI Badge" />
+<img src="https://img.shields.io/badge/Storytelling%20con%20Datos-Femenina%20%26%20Impactante-f49ac2?style=for-the-badge" alt="Storytelling Badge" />
+
+
 <img src="https://img.shields.io/badge/Data%20Science-Con%20Propósito%20y%20Pasión-f49ac2?style=for-the-badge" alt="Data Science Badge" />
 <img src="https://img.shields.io/badge/SQL-Precisión%20y%20Control-00bfff?style=for-the-badge&logo=sqlite" alt="SQL Badge" />
 <img src="https://img.shields.io/badge/Power%20BI-Visualización%20Estratégica-ffbf00?style=for-the-badge&logo=powerbi" alt="Power BI Badge" />
