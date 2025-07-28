@@ -18,6 +18,11 @@
 
 ---
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+
+
 ## 👩‍💻 Sobre mí
 
 Soy **Karina Serrano**, una profesional con formación en Ingeniería Industrial y especialización en Ciencia de Datos, con fuerte enfoque en **logística, análisis estratégico y visualización de datos**. Mi pasión es conectar los datos con decisiones reales que generen impacto.
