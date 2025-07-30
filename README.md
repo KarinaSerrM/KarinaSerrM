@@ -57,7 +57,7 @@ Me defino como alguien que combina lógica, estructura y creatividad para mejora
 
 ## 🌱 ¿Qué me motiva?
 
-🌈 Transformar la complejidad de los datos en claridad.  
+📊 Transformar la complejidad de los datos en claridad.  
 📦 Diseñar soluciones que optimizan inventarios y logística.  
 🤝 Compartir conocimiento con perspectiva humana.  
 ✨ Crear dashboards que cuentan historias reales.
