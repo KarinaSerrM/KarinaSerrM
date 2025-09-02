@@ -176,14 +176,7 @@ Me defino como alguien que combina lógica, estructura y creatividad para mejora
 
 ## 🤝 ¡Conectemos!
 
-📬 **Correo:** karina.ingind@gmail.com  
-🔗 **LinkedIn:** [Karina Serrano - Data Science](https://www.linkedin.com/in/karina-serrano-data-science)
-
-
-
-## 🤝 ¡Conectemos!
-
 <p align="center">
-  📬 <strong>Correo:</strong> karina.ingind@gmail.com<br/>
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karina-serrano-data-science">Karina Serrano - Data Science</a>
+📬 <strong>Correo:</strong> karina.ingind@gmail.com<br/>
+🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karina-serrano-data-science">Karina Serrano - Data Science</a>
 </p>
