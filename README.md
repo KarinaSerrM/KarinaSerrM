@@ -93,6 +93,7 @@ Me defino como alguien que combina lógica, estructura y creatividad para mejora
 | Plataforma            | Capacidades |
 |-----------------------|-------------|
 | Power BI              | Dashboards interactivos, modelado de datos, DAX |
+| Tableau               | Dashboards interactivos, modelado de datos, DAX |
 | Power Query           | ETL y transformación de datos |
 | Plotly, Plotly Express| Gráficos y Vizualizaciones |
 | Dash framework        |  Dashboards interactivos, modelado de datos, Python |
