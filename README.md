@@ -27,7 +27,7 @@
 
 
 ✨  Una profesional apasionada por la conexión entre los datos y las decisiones estratégicas.
-Me defino como alguien que combina lógica, estructura y creatividad para mejorar procesos logísticos y operativos mediante la analítica. Trabajo con propósito, comunicación efectiva y mucha sensibilidad visual.
+Me defino como alguien que combina lógica, estructura y creatividad para mejorar procesos mediante la analítica. Trabajo con propósito, comunicación efectiva y mucha sensibilidad visual.
 
 ---
 
